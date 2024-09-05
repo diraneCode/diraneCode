@@ -1,5 +1,5 @@
 <body style="background-color: #141414">
-    ## DIRANE CODE
+    <b>#DIRANE CODE</b>
     <h1 style="color: #539400">👋 Hi, je suis @diraneCode Developpeur web et mobile</h1>
     - 👀 Je suis passionné par le développement web et mobile<br />
     - 🌱 Je suis tout les jours en constante évolution<br />
