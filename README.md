@@ -8,8 +8,8 @@
     <ul>
         <li>Javascript</li>
         <li>Php</li>
-        <li>Dart</li>
         <li>Java</li>
+        <li>Dart</li>
     </ul>
     <h4>📫 Mes technos sont :</h4>
     <ul>
@@ -18,6 +18,7 @@
         <li>React Native</li>
         <li>Expo</li>
         <li>Node JS</li>
+        <li>Prisma</li>
         <li>Flutter</li>
     </ul>
         .
